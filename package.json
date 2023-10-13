@@ -1,0 +1,27 @@
+{
+  "name": "passport-solid",
+  "version": "0.0.0",
+  "description": "passport-solid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solid-lite/passport-solid.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solid-lite/passport-solid/issues"
+  },
+  "homepage": "https://github.com/solid-lite/passport-solid#readme",
+  "dependencies": {
+  }
+}
