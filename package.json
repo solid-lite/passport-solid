@@ -22,5 +22,8 @@
     "url": "https://github.com/solid-lite/passport-solid/issues"
   },
   "homepage": "https://github.com/solid-lite/passport-solid#readme",
-  "dependencies": {}
+  "dependencies": {
+    "passport": "^0.6.0",
+    "passport-strategy": "^1.0.0"
+  }
 }
