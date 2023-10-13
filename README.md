@@ -21,9 +21,6 @@
 
 # passport-solid 🛂
 
-[![NPM version](https://badge.fury.io/js/passport-solid.svg)](https://www.npmjs.com/package/passport-solid)
-[![Build Status](https://travis-ci.com/your-github-username/passport-solid.svg?branch=main)](https://travis-ci.com/your-github-username/passport-solid)
-
 **passport-solid** is a Passport strategy for authenticating with [Solid](https://solidproject.org/) utilizing the OAuth 2.0 API.
 
 This module lets you authenticate using Solid in your Node.js applications. By plugging into Passport, Solid authentication can be easily and unobtrusively integrated into any application or framework that supports [Connect](http://www.senchalabs.org/connect/)-style middleware, including [Express](http://expressjs.com/).
