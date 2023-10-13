@@ -1,6 +1,6 @@
 {
   "name": "passport-solid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "passport-solid",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,5 @@
     "url": "https://github.com/solid-lite/passport-solid/issues"
   },
   "homepage": "https://github.com/solid-lite/passport-solid#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
